@@ -1,0 +1,108 @@
+---
+
+api_id: 25351766
+api_hash: a15ed753d880cc573264e198ea25ce6b
+app_short_name: sadsadasdsa
+phone_number: "+994602478446"
+
+splay: 50
+
+messages:
+  one: |
+    ✅MÜKƏMMƏL YENİ SİSTEM✅
+    🎇29.12.2023🎇
+    İlk qatilan hər zaman qazanir       🏆YATRİMSİZ 4$ KAZAN🏆
+    🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇🎇
+    YATRİM ETMƏDƏN REFAL YATRİMİNİ ANİNDA ÇƏKƏNDƏ BİNANCE HESABİNA KÖÇÜR
+    LV 1-10$ DEPOZİT-1$ QAZANC
+    DAHA YÜKSƏK DEPOZİT YUKSƏK QAZANC.
+    ✅✅✅✅✅✅✅✅✅
+    Çixariş almkşam 5dəq hesaba çatır.
+    Kayit link👇👇👇👇👇👇
+    https://m1-ai.cc/7GBkFC
+    
+    📣Min depozit 10$
+    📣Min çekim 1$
+    📣Para çekim aninda Binace cüzdanina yatırılır
+    📣10$ gündəlik 1 dolar qazanc
+    📣Pul çixariş faizi yoxdur
+    💣💣💣💣💣💣💣💣💣💣💣
+    Qeydiyyat link👇👇👇👇👇👇
+    https://m1-ai.cc/7GBkFC
+    💣💣💣💣💣💣💣💣💣💣💣
+    Qrup:👇👇👇👇👇👇
+    https://t.me/+ZqHxPr_RI94xYWFh
+    💣💣💣💣💣💣💣💣💣💣💣
+    4$ Yatrimsiz qazanmaq üçün
+    👇👇👇👇👇👇👇👇👇👇👇
+    🏆Kanala qatil like et ekrani çək sonra sayta yerləşdir yoxlaniş və 1$ bonus
+    🏆Öz əlinizdə saytin telfon ilə ekran görntsün çəkin yerləşdrin 3$ bonus alin.
+    🏆4$ bonusa 6$ depozit edin və Vip 1 alin 60 gün 1$ qazanin.
+    ⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
+
+raid:
+  globalinksharing:
+    message_type: one
+    wait_interval: 275
+  onlineqazanc3:
+    message_type: one
+    wait_interval: 280
+  onlineqazanc369:
+    message_type: one
+    wait_interval: 285
+  Online_Qazanmaq2023:
+    message_type: one
+    wait_interval: 290
+  Business_FikirAl:
+    message_type: one
+    wait_interval: 295 
+  qazancqrupu145:
+    message_type: one
+    wait_interval: 300 
+  online_qazancc:
+    message_type: one
+    wait_interval: 305 
+  pulqazanvip:
+    message_type: one
+    wait_interval: 310
+  onlineqazanccneco:
+    message_type: one
+    wait_interval: 305  
+  onlineqazanc8229:
+    message_type: one
+    wait_interval: 315  
+  qazancqrupu:
+    message_type: one
+    wait_interval: 320
+  Pulqazan32:
+    message_type: one
+    wait_interval: 325
+  HmR5E4ANaM1NmFi:
+    message_type: one
+    wait_interval: 330
+  onlinereklamm:
+    message_type: one
+    wait_interval: 335
+  IXFYVjisVQ8wNTBi:
+    message_type: one
+    wait_interval: 340
+  OldlarGroups:
+    message_type: one
+    wait_interval: 345
+  Online_Qazanc777:
+    message_type: one
+    wait_interval: 350
+  onlineqazanc8229:
+    message_type: one
+    wait_interval: 355 
+    increase_wait_interval: 60
+    total_messages: 10
+    image: images/cd.jpg
+random_message_format: |
+  lambda rm1, rm2 : rm1 + " & " + rm2 + "!"
+
+random_message:
+- a
+- b
+- c
+- d
